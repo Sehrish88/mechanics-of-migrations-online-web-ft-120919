@@ -1,3 +1,3 @@
-class Artist < ActiveRecords::Base 
+class Artist < ActiveRecord::Base 
   
 end
